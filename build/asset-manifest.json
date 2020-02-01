@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-resume/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-resume/static/js/main.791780db.chunk.js",
+    "main.js.map": "/my-resume/static/js/main.791780db.chunk.js.map",
+    "runtime-main.js": "/my-resume/static/js/runtime-main.f6aa34f0.js",
+    "runtime-main.js.map": "/my-resume/static/js/runtime-main.f6aa34f0.js.map",
+    "static/js/2.95851880.chunk.js": "/my-resume/static/js/2.95851880.chunk.js",
+    "static/js/2.95851880.chunk.js.map": "/my-resume/static/js/2.95851880.chunk.js.map",
+    "index.html": "/my-resume/index.html",
+    "precache-manifest.ebeb04a2d25b5f69b165d28d9648d3c6.js": "/my-resume/precache-manifest.ebeb04a2d25b5f69b165d28d9648d3c6.js",
+    "service-worker.js": "/my-resume/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/my-resume/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.95851880.chunk.js.LICENSE.txt": "/my-resume/static/js/2.95851880.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-resume/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6aa34f0.js",
+    "static/js/2.95851880.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.791780db.chunk.js"
+  ]
+}
